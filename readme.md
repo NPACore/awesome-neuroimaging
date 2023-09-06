@@ -103,6 +103,10 @@ spatial normalization
 - 3dNwarpApply - NB. OpenMP parallelized! ([AFNI](https://afni.nimh.nih.gov/))
 - flirt, fnirt ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
 
+#### Templates
+- [templateflow](https://www.templateflow.org/)
+- [MNI152](https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009)
+
 ### Manipulation
 
 - 3dcalc ([AFNI](https://afni.nimh.nih.gov/))
