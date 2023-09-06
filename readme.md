@@ -95,14 +95,16 @@ spatial normalization
 
 #### Misc
 - hurst
-- tat2
+- [tat2](https://lncd.github.io/lncdtools/tat2/)
 
 ## Libraries
 
 ### Python
 
-- nipy
-- nibabel
+- [nipy](https://nipy.org/)
+    - nibabel
+    - nipype
+    - nilearn
 
 ### R
 - [oro.nifti](https://github.com/bjw34032/oro.nifti)
@@ -114,8 +116,8 @@ spatial normalization
 ## Resources
 
 ### Boards
-- [neurostars](neurostars.org/)
-- [afni discuss](discuss.afni.nimh.nih.gov)
+- [neurostars](https://neurostars.org/)
+- [afni discuss](https://discuss.afni.nimh.nih.gov)
 
 ### Blogs and Books
 
