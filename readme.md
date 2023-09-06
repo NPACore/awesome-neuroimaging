@@ -25,11 +25,12 @@
 ## Acquisition
 ### MR
 #### Management
+- PACS - Picture Archiving and Communication System
 - [XNAT](https://www.xnat.org/)
   - [DAX](https://github.com/VUIIS/dax) Distributed Automation for XNAT: use containerization w/YAML defined input/output
-- [Flywheel](flywheel.io)
-- PACS - Picture Archiving and Communication System
 - [LORIS](https://mcin.ca/technology/loris/) & [cbrain](https://mcin.ca/technology/cbrain/)
+- [Flywheel](flywheel.io) - $$$
+- [QMENTA](https://qmenta.com) - $$$
 
 #### Motion
 - [FIRMM](https://firmm.readthedocs.io)
