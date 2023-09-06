@@ -42,6 +42,8 @@ Preprocessing workflows.
 - [`afni_proc.py`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html)
 - [HALFpipe](https://github.com/HALFpipe/HALFpipe)
 - [XCP](https://xcpengine.readthedocs.io/)
+- [clpipe](https://clpipe.readthedocs.io/en/latest/)
+- [fmri_processing_scripts](https://github.com/LabNeuroCogDevel/fmri_processing_scripts)
 
 ### DSI
 
