@@ -29,6 +29,7 @@
   - [DAX](https://github.com/VUIIS/dax) Distributed Automation for XNAT: use containerization w/YAML defined input/output
 - [Flywheel](flywheel.io)
 - PACS - Picture Archiving and Communication System
+- [LORIS](https://mcin.ca/technology/loris/) & [cbrain](https://mcin.ca/technology/cbrain/)
 
 #### Motion
 - [FIRMM](https://firmm.readthedocs.io)
@@ -54,6 +55,7 @@ Software packages for multiple modalities, often offering a graphical user inter
  - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
  - [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
  - [Qu|Nex](https://qunex.yale.edu/)
+<!-- - [MINC](https://mcin.ca/technology/minc/) -- more of a format than suit? -->
 
 
 ### BOLD
@@ -72,6 +74,7 @@ Software packages for multiple modalities, often offering a graphical user inter
 
 ### Structural
 - [Freesurfer](https://freesurfer.net/)
+- [CIVET](https://mcin.ca/technology/civet/)
 
 
 ## Raw Data
