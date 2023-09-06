@@ -5,12 +5,22 @@
 
 ## Contents
 
+- [Viewers](#viewers)
 - [Acquisition](#acquistion)
 - [Quality Assurance and Checking](#mri-pipelines)
 - [Pipelines](#pipelines)
 - [Raw Data](#raw-data)
 - [Libraries](#libraries)
 - [Resources](#resources)
+
+
+## Viewers
+ - [AFNI](https://afni.nimh.nih.gov/)
+ - freeview ([Freesurfer](https://freesurfer.net/))
+ - fsleyes  ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki))
+ - [mricron](https://www.nitrc.org/projects/mricron)
+ - [dsistudio](https://dsi-studio.labsolver.org/)
+ - [osirix](https://www.osirix-viewer.com/)
 
 ## Acquisition
 ### MR
@@ -36,6 +46,15 @@ QA and QC of scanner images.
 
 Preprocessing workflows.
 
+### Suites
+Software packages for multiple modalities, often offering a graphical user interface.
+
+ - [AFNI](https://afni.nimh.nih.gov/)
+ - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+ - [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
+ - [Qu|Nex](https://qunex.yale.edu/)
+
+
 ### BOLD
 
 - [fmriprep](fmriprep.org/)
@@ -49,6 +68,9 @@ Preprocessing workflows.
 
 - [dsi-studio](https://dsi-studio.labsolver.org/)
 - [qsiprep](https://qsiprep.readthedocs.io/)
+
+### Structural
+- [Freesurfer](https://freesurfer.net/)
 
 
 ## Raw Data
