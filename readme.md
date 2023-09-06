@@ -26,6 +26,7 @@
 ### MR
 #### Management
 - [XNAT](https://www.xnat.org/)
+  - [DAX](https://github.com/VUIIS/dax) Distributed Automation for XNAT: use containerization w/YAML defined input/output
 - [Flywheel](flywheel.io)
 - PACS - Picture Archiving and Communication System
 
@@ -103,7 +104,7 @@ spatial normalization
 
 - 3dcalc ([AFNI](https://afni.nimh.nih.gov/))
 - fslmaths ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
-- TODO: freesurfer versions?
+- fscalc ([Freesurfer](https://freesurfer.net/))
 - also see [#Libraries](#libraries) for development interfaces to be used within programming language
 
 
