@@ -95,9 +95,9 @@ Dealing with DICOM and k-space images
 ### Warping
 spatial normalization
 
+- [ANTs](http://stnava.github.io/ANTs/)
 - 3dNwarpApply - NB. OpenMP parallelized! ([AFNI](https://afni.nimh.nih.gov/))
 - flirt, fnirt ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
-- ANTs
 
 ### Manipulation
 
