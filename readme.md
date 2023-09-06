@@ -56,36 +56,38 @@ Dealing with DICOM and k-space images
 - [dcm2niix](https://github.com/rordenlab/dcm2niix)
 - [heudiconv](https://github.com/nipy/heudiconv/)
 - [`dicom_hinfo`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/dicom_hinfo.html)
-- [`dcmdirtab`, `dcmtab_bids`](https://github.com/lncd/lncdtools/)
+- [`dcmdirtab`, `dcmtab_bids`](https://lncd.github.io/lncdtools/BIDS/) (from [lncdtools](https://github.com/lncd/lncdtools/))
 - mapVBVD
 
 ## Provenance and automation
 
 - [make](https://www.frontiersin.org/articles/10.3389/fninf.2016.00002/full)
 - [datalad](https://handbook.datalad.org/) - esp `datalad run --input=... --output=...`
-- `3dNotes`
+- `niinote` ([lncdtools](https://github.com/lncd/lncdtools/))
+- `3dNotes` ([AFNI](https://afni.nimh.nih.gov/))
 
 ## Imaging tools
 
 ### Warping
 spatial normalization
 
-- 3dNwarpApply - NB. OpenMP parallelized!
-- flirt, fnirt
+- 3dNwarpApply - NB. OpenMP parallelized! ([AFNI](https://afni.nimh.nih.gov/))
+- flirt, fnirt ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
 - ANTs
 
 ### Manipulation
 
-- 3dcalc
-- fslmaths
-- TODO: freesurfer
+- 3dcalc ([AFNI](https://afni.nimh.nih.gov/))
+- fslmaths ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
+- TODO: freesurfer versions?
+- also see [#Libraries](#libraries) for development interfaces to be used within programming language
 
 
 ### Modeling
 
 #### HRF
-- 3dDeconvolve
-- FEAT
+- 3dDeconvolve ([AFNI](https://afni.nimh.nih.gov/))
+- FEAT ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
 
 #### MRSI
 - [lcmodel](https://github.com/schorschinho/LCModel)
