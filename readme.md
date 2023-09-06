@@ -102,7 +102,7 @@ spatial normalization
 
 - [ANTs](http://stnava.github.io/ANTs/)
 - 3dNwarpApply - NB. OpenMP parallelized! ([AFNI](https://afni.nimh.nih.gov/))
-- flirt, fnirt ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
+- flirt, fnirt ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki))
 
 #### Templates
 - [templateflow](https://www.templateflow.org/)
@@ -111,7 +111,7 @@ spatial normalization
 ### Manipulation
 
 - 3dcalc ([AFNI](https://afni.nimh.nih.gov/))
-- fslmaths ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
+- fslmaths ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki))
 - fscalc ([Freesurfer](https://freesurfer.net/))
 - also see [#Libraries](#libraries) for development interfaces to be used within programming language
 
@@ -120,7 +120,7 @@ spatial normalization
 
 #### HRF
 - 3dDeconvolve ([AFNI](https://afni.nimh.nih.gov/))
-- FEAT ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)])
+- FEAT ([FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki))
 
 #### MRSI
 - [lcmodel](https://github.com/schorschinho/LCModel)
