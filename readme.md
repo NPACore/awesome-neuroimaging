@@ -154,9 +154,10 @@ spatial normalization
 
 ## Resources
 
-### Boards
+### Boards And Chats
 - [neurostars](https://neurostars.org/)
 - [afni discuss](https://discuss.afni.nimh.nih.gov)
+- [brainhack](https://mattermost.brainhack.org/)
 
 ### Blogs and Books
 
