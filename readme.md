@@ -24,6 +24,9 @@
 
 ## Acquisition
 ### MR
+#### Organization
+ - [reproIn](https://dbic-handbook.readthedocs.io/en/latest/mri/reproin.html) - naming exam card sequences
+ - [BIDS](https://bids-specification.readthedocs.io/en/stable/) - Brain Imaging Data Structure - directory hierarchy and file naming specification
 #### Management
 - PACS - Picture Archiving and Communication System
 - [XNAT](https://www.xnat.org/)
