@@ -154,15 +154,17 @@ spatial normalization
 
 ## Resources
 
+### Blogs, Books, and Docs
+
+- [andy's brain blog](andysbrainblog.com/)
+- [datalad handbook](https://handbook.datalad.org/)
+- [Hitchhacker's guide to the brain/](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/)
+- [Online Neuroimaging Resources](https://github.com/Remi-Gau/online_neuroimaging_resources)
+
 ### Boards And Chats
 - [neurostars](https://neurostars.org/)
 - [afni discuss](https://discuss.afni.nimh.nih.gov)
 - [brainhack](https://mattermost.brainhack.org/)
-
-### Blogs and Books
-
-- [andy's brain blog](andysbrainblog.com/)
-- [datalad handbook](https://handbook.datalad.org/)
 
 ### Datasets Repositories
 
