@@ -6,11 +6,9 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+Ideally your pull request will be atomic and contain a single new entry, removal, or modification. However, larger requests are still welcome, especially when expanding the list into under represented topics.
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+Your pull request will be checked against [`awesome-lint`](https://github.com/sindresorhus/awesome-lint). You can run `npm test` locally in this repo's directory to check before pushing.
 
 Thank you for your suggestions!
 
