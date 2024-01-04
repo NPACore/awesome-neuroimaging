@@ -1,0 +1,16 @@
+{
+  "name": "awesome-neuroimaging",
+  "version": "1.0.0",
+  "description": "Exploring, organizing, and analysing neuro-images. MR focused.",
+  "scripts": {
+    "test": "awesome-lint readme.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NPACore/awesome-neuroimaging.git"
+  },
+  "license": "CC0-1.0",
+  "dependencies": {
+    "awesome-lint": ">=1.1.0"
+  }
+}
