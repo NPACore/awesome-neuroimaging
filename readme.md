@@ -200,6 +200,7 @@ Tools for doing math on matrix values
 - [datalad handbook](https://handbook.datalad.org/)
 - [Hitchhacker's guide to the brain/](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/)
 - [Online Neuroimaging Resources](https://github.com/Remi-Gau/online_neuroimaging_resources)
+- [U of A: Neuroimaging Core Documentation](https://neuroimaging-core-docs.readthedocs.io/)
 
 ### Boards And Chats
 - [neurostars](https://neurostars.org/) - General nueroimaging `dicuss` form. `fmriprep` suggested Q&A site.
