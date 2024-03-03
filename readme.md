@@ -16,6 +16,7 @@
 - [Raw Data](#raw-data)
 - [Provenance and Automation](#provenance-and-automation) 
 - [Imaging Tools](#imaging-tools)
+  - [Skullstripping](#skullstripping)
   - [Warping](#warping)
   - [Manipulation](#manipulation)
   - [Modeling](#modeling)
@@ -116,6 +117,14 @@ Dealing with DICOM and k-space images
 
 ## Imaging Tools
 Software to read, write, and manipulate volumetric and/or surface data.
+
+### Skullstripping
+- [optibet](https://montilab.psych.ucla.edu/fmri-wiki/optibet/) - Shell script to combine afni and fsl tools for more robust skull stripping in patient populations.
+- [`3dSkullStrip`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html) - [AFNI](https://afni.nimh.nih.gov/)'s skull stripping utility with many parameters.
+- [`bet`](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide) - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)'s brain exraction tool.
+- [`antsBrainExtraction.sh`](https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ants.html)  - [ANTs](http://stnava.github.io/ANTs/) version.
+- [`mri-watershed`](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed) - Part of the [Freesurfer](https://freesurfer.net/) pipeline.
+- [ROBEX](https://www.nitrc.org/projects/robex) - Robust Brain Extraction without parameter tweaking.
 
 ### Warping
 Spatial normalization
