@@ -92,6 +92,7 @@ Software packages for multiple modalities, often offering a graphical user inter
 - [qsiprep](https://qsiprep.readthedocs.io/) - Configures pipelines for processing diffusion-weighted MRI (dMRI) data.
 
 ### Structural
+<!--lint ignore double-link-->
 - [Freesurfer](https://freesurfer.net/) - An open source neuroimaging toolkit for processing, analyzing, and visualizing human brain MR images.
 - [CIVET](https://mcin.ca/technology/civet/) - An image processing pipeline for fully automated volumetric, corticometric, and morphometric analysis of human brain imaging data.
 
@@ -120,15 +121,20 @@ Software to read, write, and manipulate volumetric and/or surface data.
 
 ### Skullstripping
 - [optibet](https://montilab.psych.ucla.edu/fmri-wiki/optibet/) - Shell script to combine afni and fsl tools for more robust skull stripping in patient populations.
+<!--lint ignore double-link-->
 - [`3dSkullStrip`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html) - [AFNI](https://afni.nimh.nih.gov/)'s skull stripping utility with many parameters.
+<!--lint ignore double-link-->
 - [`bet`](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide) - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)'s brain exraction tool.
+<!--lint ignore double-link-->
 - [`antsBrainExtraction.sh`](https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ants.html)  - [ANTs](http://stnava.github.io/ANTs/) version.
+<!--lint ignore double-link-->
 - [`mri-watershed`](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed) - Part of the [Freesurfer](https://freesurfer.net/) pipeline.
 - [ROBEX](https://www.nitrc.org/projects/robex) - Robust Brain Extraction without parameter tweaking.
 
 ### Warping
 Spatial normalization
 
+<!--lint ignore double-link-->
 - [ANTs](http://stnava.github.io/ANTs/) - Advanced Normalization Tools includes probabilistic tissue segmentation and machine learning methods based on expert labeled data to order to maximize reliability and consistency of multiple modality image segmentation.
 <!--lint ignore double-link-->
 - [3dQwarp](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dQwarp.html) - OpenMP parallelized [AFNI](https://afni.nimh.nih.gov/) tool to compute a nonlinearly warped version of source dataset to match a base dataset.
