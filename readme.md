@@ -124,7 +124,7 @@ Software to read, write, and manipulate volumetric and/or surface data.
 <!--lint ignore double-link-->
 - [`3dSkullStrip`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSkullStrip.html) - [AFNI](https://afni.nimh.nih.gov/)'s skull stripping utility with many parameters.
 <!--lint ignore double-link-->
-- [`bet`](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide) - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)'s brain exraction tool.
+- [`bet`](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET/UserGuide) - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)'s brain extraction tool.
 <!--lint ignore double-link-->
 - [`antsBrainExtraction.sh`](https://dpaniukov.github.io/2016/06/06/brain-extraction-with-ants.html)  - [ANTs](http://stnava.github.io/ANTs/) version.
 <!--lint ignore double-link-->
@@ -203,7 +203,7 @@ Tools for doing math on matrix values
 - [U of A: Neuroimaging Core Documentation](https://neuroimaging-core-docs.readthedocs.io/)
 
 ### Boards And Chats
-- [neurostars](https://neurostars.org/) - General nueroimaging `dicuss` form. `fmriprep` suggested Q&A site.
+- [neurostars](https://neurostars.org/) - General neuroimaging `discuss` form. `fmriprep` suggested Q&A site.
 - [afni discuss](https://discuss.afni.nimh.nih.gov) - AFNI's `discuss` instance.
 - [brainhack](https://mattermost.brainhack.org/) - A mattermoust community of neuroimagers.
 
