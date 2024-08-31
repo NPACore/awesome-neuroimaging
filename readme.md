@@ -170,10 +170,10 @@ Tools for doing math on matrix values
 - [Osprey](https://github.com/schorschinho/osprey) - An all-in-one software suite for state-of-the art processing and quantitative analysis of in-vivo magnetic resonance spectroscopy (MRS) data.
 
 #### EEG
-- fooof
+- [`fooof`](https://fooof-tools.github.io/fooof/index.html) -  Fast, efficient, and physiologically-informed tool to parameterize neural power spectra.
 
 #### Misc
-- hurst
+- [hurst](https://github.com/elifesciences-publications/ei_hurst/) - Algorithm to assess intrinsic excitation-inhibition imbalance in MR ([Trakoshis et al, eLife, 2020](http://doi.org/10.7554/eLife.55684)).
 <!--lint ignore double-link-->
 - [tat2](https://lncd.github.io/lncdtools/tat2/) - Time-averaged T2* wrapper script using AFNI binaries from [lncdtools](https://github.com/lncd/lncdtools/).
 
@@ -209,16 +209,17 @@ Tools for doing math on matrix values
 
 ### Datasets Repositories
 
-- openneuro
-- NDA
-- NITRC
+- [openneuro](https://openneuro.org/) - A free and open platform for validating and sharing BIDS-compliant MRI, PET, MEG, EEG, and iEEG data.
+- [NDA](https://nda.nih.gov/) - National Institute of Mental Health Data Archive (NDA) makes available human subjects data collected from hundreds of research projects across many scientific domains.
+- [NITRC](https://www.nitrc.org/) - NeuroImaging Tools & Resources Collaboratory library of neuroinformatics software and data. 
 
 #### Big datasets
-- ABCD
-- UK Biobank
-- NCANDA
-- PNC
-- ENIGMA
+
+- [ABCD](https://abcdstudy.org/) - Long-term Adolescent Brain Cognitive Development study including 1000s of longitudinal MRI scans.
+- [UK Biobank](https://www.ukbiobank.ac.uk/) -  A large-scale biomedical database and research resource with 500,000 research participants.
+- [NCANDA](http://www.ncanda.org/) - National Consortium on Alcohol and Neurodevelopment in Adolescence (4000+ MR visits).
+- [PNC](https://www.med.upenn.edu/bbl/philadelphianeurodevelopmentalcohort.html) -  A population-based sample of over 9500 individuals from the greater Philadelphia area, ages 8-21 years who received medical care at the CHOP network.
+- [ENIGMA](https://enigma.ini.usc.edu/) - The Enhancing Neuro Imaging Genetics through Meta Analysis Consortium contains 50 working group's imaging and genomics data.
 
 ## Contributing
 
