@@ -196,11 +196,11 @@ Tools for doing math on matrix values
 
 ### Blogs, Books, and Docs
 
-- [andy's brain blog](https://andysbrainblog.com/)
-- [datalad handbook](https://handbook.datalad.org/)
-- [Hitchhacker's guide to the brain/](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/)
-- [Online Neuroimaging Resources](https://github.com/Remi-Gau/online_neuroimaging_resources)
-- [U of A: Neuroimaging Core Documentation](https://neuroimaging-core-docs.readthedocs.io/)
+- [Andy's brain blog](https://andysbrainblog.com/) - Tutorials and videos about neuroimaging analysis from start to finish in all the major software packages (AFNI, SPM, and FSL).
+- [DataLad handbook](https://handbook.datalad.org/) - Start-to-end use cases of specific applications in neuroimaging using provenance tracking software `datalad`.
+- [Hitchhacker's guide to the brain](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/) - Notes from study planning to reporting and data sharing by way of acquisition, processing, analysis, and quality control.
+- [Online Neuroimaging Resources](https://github.com/Remi-Gau/online_neuroimaging_resources) - A laundry list of online resources for MRI, fMRI, EEG, MEG.
+- [U of A: Neuroimaging Core Documentation](https://neuroimaging-core-docs.readthedocs.io/) - Documentation for approaches used and/or developed by the neuroimaging core at the University of Arizona.
 
 ### Boards And Chats
 - [neurostars](https://neurostars.org/) - General neuroimaging `discuss` form. `fmriprep` suggested Q&A site.
