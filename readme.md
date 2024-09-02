@@ -41,7 +41,7 @@
 - [reproIn](https://dbic-handbook.readthedocs.io/en/latest/mri/reproin.html) - Naming exam card sequences.
 - [BIDS](https://bids-specification.readthedocs.io/en/stable/) - Brain Imaging Data Structure - directory hierarchy and file naming specification.
 #### Management
-- PACS - Picture Archiving and Communication System.
+- [PACS](https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system) - Picture Archiving and Communication System standard used to store and transfer DICOM images from medical equipment and likely implemented by scanner manufacture. See [Siemens Healthineers Syngo Carbon](https://www.siemens-healthineers.com/en-us/digital-health-solutions/syngo-carbon), [Phillips Vue PACS](https://www.documents.philips.com/assets/20240227/5a788a79bbdd4e1986f1b12300b0e534.pdf), [GE HealthCare True PACS](https://www.gehealthcare.com/products/healthcare-it/true-pacs).
 - [XNAT](https://www.xnat.org/) - An extensible open-source imaging informatics software platform dedicated to imaging-based research.
   - [DAX](https://github.com/VUIIS/dax) - Distributed Automation for XNAT: use containerization w/YAML defined input/output.
 - [LORIS](https://mcin.ca/technology/loris/) - LORIS (Longitudinal Online Research and Imaging System) is web-based data and project management software for neuroimaging research studies.
