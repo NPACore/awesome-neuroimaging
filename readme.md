@@ -45,6 +45,7 @@
 - [XNAT](https://www.xnat.org/) - An extensible open-source imaging informatics software platform dedicated to imaging-based research.
   - [DAX](https://github.com/VUIIS/dax) - Distributed Automation for XNAT: use containerization w/YAML defined input/output.
 - [LORIS](https://mcin.ca/technology/loris/) - LORIS (Longitudinal Online Research and Imaging System) is web-based data and project management software for neuroimaging research studies.
+- [brainlife.io](https://brainlife.io) - Open-source, free and secure reproducible neuroscience analysis platform.
 - [cbrain](https://mcin.ca/technology/cbrain/) - CBRAIN is web-based software that allows neuroimaging researchers to perform computationally intensive analyses on data by connecting them to High-Performance Computing (HPC).
 - 💲[Flywheel](https://flywheel.io) - A cloud-based imaging research data platform for data capture, curating, automation, and machine learning.
 - 💲[QMENTA](https://qmenta.com) - The all in one imaging platform for your clinical trial.
