@@ -1,6 +1,6 @@
 # Awesome Neuroimaging [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Exploring, organizing, and analysing neuro-images. MR focused.
+> Exploring, organizing, and analysing brain images and recordings. MR focused.
 
 ## Contents
 
