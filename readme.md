@@ -34,6 +34,8 @@
 - [mricron](https://www.nitrc.org/projects/mricron) - Volumetric viewer that works on windows.
 - [dsistudio](https://dsi-studio.labsolver.org/doc/gui_t1.html) - DSI viewer from the dsi-studio suit of tools.
 - [osirix](https://www.osirix-viewer.com/) - DICOM database organizer and viewer.
+- [Mango](https://mangoviewer.com/) - Multi-image Analysis GUI is a viewer for medical research images for dcm, nii, surface, etc; version 4.1 released in 2019.
+- [`wb_view`](https://www.humanconnectome.org/software/connectome-workbench) - Connectome workbench surface file viewer.
 
 ## Acquisition
 ### MR
