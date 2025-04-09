@@ -88,6 +88,7 @@ Software packages for multiple modalities, often offering a graphical user inter
 - [XCP-D](https://xcp-d.readthedocs.io/en/latest/) - Post-processing and noise regression pipeline picks up right where fMRIprep ends.
 - [clpipe](https://clpipe.readthedocs.io/en/latest/) - Uses fmriprep for preprocessing fMRI data and implements a variety of additional processing steps important for functional connectivity analyses such as nuisance regression and filtering.
 - [fmri_processing_scripts](https://github.com/LabNeuroCogDevel/fmri_processing_scripts) - Legacy pipeline for maximal preprocessing.
+- [HCP Pipeline](https://www.humanconnectome.org/software/hcp-mr-pipelines) - Pipeline scripts implement the Minimal Preprocessing Pipeline (MPP) described in [Glasser et al. 2013](http://www.ncbi.nlm.nih.gov/pubmed/23668970).
 
 ### DSI
 
