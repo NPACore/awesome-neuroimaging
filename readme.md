@@ -104,10 +104,13 @@ Dealing with DICOM and k-space images
 
 - [dcm2niix](https://github.com/rordenlab/dcm2niix) - DICOM to NIfTI converter.
 - [heudiconv](https://github.com/nipy/heudiconv/) - A flexible DICOM converter for organizing brain imaging data into structured directory layouts.
-- [`dicom_hinfo`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/dicom_hinfo.html) - Prints selected information from the DICOM file.
+- [gdcm](https://sourceforge.net/projects/gdcm/) - Grassroots DICOM is a  C++ library and CLI tool for DICOM medical files.
+- [`pydicom`](https://pydicom.github.io/) - Python package and cli tool for inspecting, modifying, and creating DICOM files.
+- [`dicom_hinfo`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/dicom_hinfo.html), `dicom_hdr` - Prints selected information from the DICOM file.
 <!--lint ignore double-link-->
 - [`dcmdirtab`, `dcmtab_bids`](https://lncd.github.io/lncdtools/BIDS/) - CLI focused, regular expression based, and iteration friendly BIDS conversion pipeline from [lncdtools](https://github.com/lncd/lncdtools/).
 - [pymapVBVD](https://git.fmrib.ox.ac.uk/wclarke/pymapvbvd) - Reads Siemens .dat 'twix' raw data files. Python port of Philipp Ehses' Matlab tool mapVBVD.
+- [med2image](https://github.com/FNNDSC/med2image/pulls) - Python CLI tool for generating jpg or png images from DICOM or nifti files.
 
 ## Provenance and Automation
 
