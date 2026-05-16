@@ -99,6 +99,7 @@ Software packages for multiple modalities, often offering a graphical user inter
 <!--lint ignore double-link-->
 - [Freesurfer](https://freesurfer.net/) - An open source neuroimaging toolkit for processing, analyzing, and visualizing human brain MR images.
 - [CIVET](https://mcin.ca/technology/civet/) - An image processing pipeline for fully automated volumetric, corticometric, and morphometric analysis of human brain imaging data.
+- [neuro-analyzer](https://github.com/lindsay-barret/neuro-analyzer) - Quantitative re-analysis pipeline for pediatric structural MRI, wrapping FastSurfer and dcm2niix with LLM-assisted visual analysis (Anthropic Claude API). Research and educational use only.
 
 
 ## Raw Data
