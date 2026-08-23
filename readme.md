@@ -229,5 +229,8 @@ Tools for doing math on matrix values
 - [ENIGMA](https://enigma.ini.usc.edu/) - The Enhancing Neuro Imaging Genetics through Meta Analysis Consortium contains 50 working group's imaging and genomics data.
 
 ## Contributing
-
+<!--lint ignore double-link-->
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+<!--lint ignore double-link-->
+2026-08 update: [`pull_request_template.md`](pull_request_template.md) now provides a criteria checklist (also linked in [`contributing.md`](contributing.md)).  

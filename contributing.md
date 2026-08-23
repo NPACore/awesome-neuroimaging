@@ -12,6 +12,11 @@ Your pull request will be checked against [`awesome-lint`](https://github.com/si
 
 Thank you for your suggestions!
 
+## Criteria
+
+The list is for awesome neuroimaging software. When submitting items, please confirm we're talking about the same kind of "awesome."
+[`pull_request_template.md`](pull_request_template.md) has a check list.
+
 
 ## Updating your PR
 
