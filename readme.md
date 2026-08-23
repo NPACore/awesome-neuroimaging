@@ -186,6 +186,10 @@ Tools for doing math on matrix values
 
 ## Libraries
 
+### JavaScript
+
+- [PureJsImage](https://github.com/a-r-d/PureJsImage) - Zero-runtime-dependency TypeScript library that reads NIfTI-1/2, NRRD, MetaImage, DICOM Part 10, TIFF, OME-TIFF, and Aperio SVS in Node.js and browsers.
+
 ### Python
 
 - [nipy](https://nipy.org/) - Includes `nibabel`, `nipype`, and `nilearn`.
