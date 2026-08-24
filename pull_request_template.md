@@ -8,7 +8,7 @@
 - [ ] **Has been around for at least 30 days.**
 - [ ] Is ["actually awesome stuff"](https://github.com/sindresorhus/awesome/blob/main/awesome.md#:~:text=actual%20awesome%20stuff) <br> You or colleagues use this and think it's awesome. 
   - [ ] Provide a testimonial. Tell us why this is awesome. How and why do you use it?  <br> There's no other place in the awesome-list format to gush about the software that makes life easier. <br>  Use the pull request and commit message to it's fullest!
-- [ ] Has a responsive code owner. <br> A non-exclusive list of potential evidence for responsive authorship include:
+- [ ] has demonstrated resource/code ownership. <br> Note: Pull requests authored by the same sole-proprietor of the linked resource/tool invite scrutiny. <br> A non-exclusive list of potential evidence for responsive authorship include:
   - [ ] is a dependency in unaffiliated projects (provide links)
   - [ ] **or** from or referenced in a manuscript (provide DOI)
   - [ ] **or** has >= 3 contributors
