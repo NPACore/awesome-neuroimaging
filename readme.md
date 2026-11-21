@@ -36,6 +36,7 @@
 - [osirix](https://www.osirix-viewer.com/) - DICOM database organizer and viewer.
 - [Mango](https://mangoviewer.com/) - Multi-image Analysis GUI is a viewer for medical research images for dcm, nii, surface, etc; version 4.1 released in 2019.
 - [`wb_view`](https://www.humanconnectome.org/software/connectome-workbench) - Connectome workbench surface file viewer.
+- [Planum](https://planumatlas.com) - Browser viewer that draws MNI-space NIfTI maps and coordinates on one real FreeSurfer-reconstructed brain, with five cortical atlases, histological labels and the subject's own diffusion tracts.
 
 ## Acquisition
 ### MR
